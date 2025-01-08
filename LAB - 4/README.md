@@ -99,7 +99,7 @@ The system detects 15 classes of underwater debris:
 
 ### Sample Images from the Output Directory:
 
-![Sample Image 1](Output_Img/sample1.jpg "Detected Plastic Debris - Sample 1")  
+![Sample Image 1](Output_Img/sample7.jpg "Detected Plastic Debris - Sample 1")  
 *Figure 1: Example of detected plastic debris underwater.*
 
 ![Sample Image 2](Output_Img/sample2.jpg "Detected Plastic Debris - Sample 2")  
