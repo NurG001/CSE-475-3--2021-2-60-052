@@ -69,7 +69,6 @@ python "CSE475_LAB-4_YOLO-Based Underwater Plastic Detection Source Code_(2021-2
 - **Data Preprocessing:** Enhances contrast using the Dark Prior Channel method.
 - **Model Training:** Utilizes YOLOv8 Nano for efficient and accurate detection.
 - **Prediction and Visualization:** Draws bounding boxes around detected objects and saves annotated images.
-- **Model Deployment:** Exports the model in ONNX format for easy integration.
 
 ---
 
