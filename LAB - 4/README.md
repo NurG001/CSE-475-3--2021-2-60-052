@@ -70,6 +70,7 @@ python "CSE475_LAB-4_YOLO-Based Underwater Plastic Detection Source Code_(2021-2
 - **Model Training:** Utilizes YOLOv8 Nano for efficient and accurate detection.
 - **Prediction and Visualization:** Draws bounding boxes around detected objects and saves annotated images.
 
+
 ---
 
 ## 🏷 Classes Detected
@@ -94,4 +95,20 @@ The system detects 15 classes of underwater debris:
 
 ---
 
+## 📸 Sample Detection Results
 
+### Sample Images from the Output Directory:
+
+![Sample Image 1](Output_Img/sample1.jpg "Detected Plastic Debris - Sample 1")  
+*Figure 1: Example of detected plastic debris underwater.*
+
+![Sample Image 2](Output_Img/sample2.jpg "Detected Plastic Debris - Sample 2")  
+*Figure 2: Example of bounding box predictions.*
+
+![Sample Image 3](Output_Img/sample3.jpg "Detected Plastic Debris - Sample 3")  
+*Figure 3: Annotated image showing detected objects.*
+
+![Sample Image 4](Output_Img/sample4.jpg "Detected Plastic Debris - Sample 4")  
+*Figure 4: More examples of detected underwater plastics.*
+
+---
